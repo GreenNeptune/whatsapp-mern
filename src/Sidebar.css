@@ -3,3 +3,16 @@
   flex-direction: column;
   flex: 0.35;
 }
+
+.sidebar__header{
+  display: flex;
+  justify-content: space-between;
+  border-right: 1px solid lightgray;
+  padding: 20px;
+  min-width: 10vw;
+}
+
+.sidebar__headerRight > .MuiSvgIcon-root{
+  margin: 2vw;
+  font-size: 24px !important;
+}
