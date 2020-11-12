@@ -56,7 +56,7 @@ function Chat() {
         </p>
         <p className="chat__message">
           <span className="chat__name">Jack</span>
-          This is verylongggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+          This is verylongggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
           message
           <span className="chat__timestamp">
             {new Date().toUTCString()}
